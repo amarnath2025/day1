@@ -1,0 +1,12 @@
+Tablespace Management
+Online redo log file management
+archive log file management
+control file management
+flash recovery area
+storage parameters
+user management
+undo management
+oracle networking
+DB links and materialized views
+backups
+
